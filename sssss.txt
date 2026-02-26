@@ -5789,7 +5789,6 @@ avz
 awa
 awaagama
 awaair
-awaarang
 awaasam
 awabau
 awabeku
@@ -75752,5 +75751,6 @@ zus
 zusanli
 zuzumo
 zuzuni
+
 
 
