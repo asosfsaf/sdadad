@@ -3258,7 +3258,6 @@ andiu
 andja
 andjo
 andju
-andk
 andkal
 andkan
 andkat
@@ -75755,3 +75754,4 @@ zus
 zusanli
 zuzumo
 zuzuni
+
